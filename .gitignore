@@ -1,0 +1,12 @@
+gh/
+discord/
+environment.d/
+home-manager/
+pulse/
+Thunar/
+dconf/
+Electron/
+gtk-3.0/
+systemd/
+xfce4/
+result
